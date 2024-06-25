@@ -1,9 +1,10 @@
 Language: C#
 IDE: Visual Studio 2017
 
-Hi, I was a little unsure of what the requirements meant about calculating the polynomial recursively,
-so I made each variable an array entry and recursively iterated through the array to calculate each variable.
-I hope this fits your requirements, or at least demonstrates knowledge of recursive functions.
+This is a TCP Client-Server program which maintains multiple threads on the server side to facilitate multiple possible client
+connections. When a client is connected, it can query the server with a polynomial and the server will reply with a solution.
+The server takes an intentional delay in replying to simulate computational complexity before sending an answer back, but
+only on polynomials it hasn't seen before in that session.
 
 The server runs a loop in the main thread that listens for new connections and makes a session object when it receives one
 the session object is stored in a list, it holds open the socket to the client, and it launches a thread with a loop that
@@ -21,5 +22,5 @@ in different orders. I've tested that it retains computation results per-client 
 I've tested launching multiple clients at once, and closing them in different orders to see if the session list grows and shrinks
 accordingly.
 
-As a bonus, I included an optional mode that lets you specify an arbitrary number of multipliers for a polynomial, and calculate that
-instead of the default one in the requirements. I have this hardcoded turned off, but you can flip it on if you want to try it out.
+As a bonus, I included an optional mode that lets you specify an arbitrary number of multipliers for a polynomial. I have this
+hardcoded to be turned off, but you can flip it on if you want to try it out.
