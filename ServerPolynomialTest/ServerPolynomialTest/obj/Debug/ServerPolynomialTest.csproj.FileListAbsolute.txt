@@ -1,0 +1,7 @@
+C:\Users\Chris\source\repos\ServerPolynomialTest\ServerPolynomialTest\bin\Debug\ServerPolynomialTest.exe.config
+C:\Users\Chris\source\repos\ServerPolynomialTest\ServerPolynomialTest\bin\Debug\ServerPolynomialTest.exe
+C:\Users\Chris\source\repos\ServerPolynomialTest\ServerPolynomialTest\bin\Debug\ServerPolynomialTest.pdb
+C:\Users\Chris\source\repos\ServerPolynomialTest\ServerPolynomialTest\obj\Debug\ServerPolynomialTest.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\ServerPolynomialTest\ServerPolynomialTest\obj\Debug\ServerPolynomialTest.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\ServerPolynomialTest\ServerPolynomialTest\obj\Debug\ServerPolynomialTest.exe
+C:\Users\Chris\source\repos\ServerPolynomialTest\ServerPolynomialTest\obj\Debug\ServerPolynomialTest.pdb

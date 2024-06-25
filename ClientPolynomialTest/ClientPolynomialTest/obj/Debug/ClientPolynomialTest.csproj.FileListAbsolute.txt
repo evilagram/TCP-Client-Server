@@ -1,0 +1,7 @@
+C:\Users\Chris\source\repos\ClientPolynomialTest\ClientPolynomialTest\bin\Debug\ClientPolynomialTest.exe.config
+C:\Users\Chris\source\repos\ClientPolynomialTest\ClientPolynomialTest\bin\Debug\ClientPolynomialTest.exe
+C:\Users\Chris\source\repos\ClientPolynomialTest\ClientPolynomialTest\bin\Debug\ClientPolynomialTest.pdb
+C:\Users\Chris\source\repos\ClientPolynomialTest\ClientPolynomialTest\obj\Debug\ClientPolynomialTest.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\ClientPolynomialTest\ClientPolynomialTest\obj\Debug\ClientPolynomialTest.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\ClientPolynomialTest\ClientPolynomialTest\obj\Debug\ClientPolynomialTest.exe
+C:\Users\Chris\source\repos\ClientPolynomialTest\ClientPolynomialTest\obj\Debug\ClientPolynomialTest.pdb
